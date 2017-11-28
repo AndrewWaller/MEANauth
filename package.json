@@ -18,5 +18,5 @@
     "passport-jwt": "*"
   },
   "author": "Andrew Waller",
-  "license": ""
+  "license": "MIT"
 }
